@@ -4,7 +4,8 @@
 **Demo**
 ----
 This website only works on Iphone X devices. We are working on other devices.
-This web application was created to help the city of Fernelmont, as part of a hackathon, to better communicate with the teenagers of the region, in order to have an easy and digital way to know what is going on in their municipality; activities offered by local organizations, local stores, sports clubs, but also so that they can participate and offer activities and be heard by their municipality. 
+This web application was created to help the city of Fernelmont, as part of a hackathon, to better communicate with the teenagers of the region, in order to have an easy and digital way to know what is going on in their municipality; activities offered by local organizations, local stores, sports clubs, but also so that they can participate and offer activities and be heard by their municipality.
+
 [Fernelmove](https://fernelmove.herokuapp.com/)
 
 
